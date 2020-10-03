@@ -1,0 +1,50 @@
+
+
+.cont{
+    background-color: #3e5c9a;
+    padding: 10px 200px 10px 200px ;
+    height: 82px;
+     
+}
+.cont label {
+    font-size: 11px;
+   
+}
+.cont h1, .wh{
+    color: white;
+}
+.cont label ,input, a{
+    font-size: 11px;
+    
+}
+.cont td{
+    padding: 0px 0px 0px 10px;
+    margin: 0px;
+}
+ 
+
+
+
+.bod{
+    background-image: linear-gradient(#fefeff,#d5dae9) ;
+    padding-top: 20px;
+    margin: 0px;
+    height: 620px;
+}
+.bod p{
+    color: black;
+    font-weight: bold;
+    font-size: 20px;
+}
+.bod article{
+    font-size: 11px;
+}
+.footer ul li{
+    display: inline;
+    padding: 2px;
+}
+.footer ul li a{
+    color: #385898
+}
+
+
